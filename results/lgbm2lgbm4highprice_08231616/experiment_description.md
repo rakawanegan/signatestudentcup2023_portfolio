@@ -1,0 +1,851 @@
+# Lab Notebook
+
+
+## MODELNAME
+lgbm2lgbm4highprice
+
+## SEED
+314
+
+## eval_mape mean
+0.4440189820397166
+
+## ecal_mape each
+- 0: 0.4456932770146636
+- 1: 0.4383112043454695
+- 2: 0.4485768403253404
+- 3: 0.43996646649688764
+- 4: 0.4475471220162218
+
+## input_future
+- year
+- cylinders
+- odometer
+- size
+- condition_score
+- title_status_score
+- is_automatic
+- is_gas
+- is_rebuilt
+- is_fwd
+- is_sedan
+- is_silver
+- is_excellent
+- odometerpercar-age
+- log-odmeter
+- odometer-inverse
+- car-age-inverse
+- truck_diesel
+- odometerpermanufacturer
+- yearpermanufacturer
+- odometerperfuel
+- yearperfuel
+- odometerpertransmission
+- yearpertransmission
+- odometerperdrive
+- yearperdrive
+- odometerpersize
+- yearpersize
+- odometerpertype
+- yearpertype
+- region_abilene
+- region_akron / canton
+- region_albany
+- region_albuquerque
+- region_altoona-johnstown
+- region_amarillo
+- region_ames
+- region_anchorage / mat-su
+- region_ann arbor
+- region_annapolis
+- region_appleton-oshkosh-fdl
+- region_asheville
+- region_athens
+- region_atlanta
+- region_auburn
+- region_augusta
+- region_austin
+- region_bakersfield
+- region_baltimore
+- region_baton rouge
+- region_battle creek
+- region_beaumont / port arthur
+- region_bellingham
+- region_bemidji
+- region_bend
+- region_billings
+- region_binghamton
+- region_birmingham
+- region_bismarck
+- region_bloomington
+- region_bloomington-normal
+- region_boise
+- region_boone
+- region_boston
+- region_boulder
+- region_bowling green
+- region_bozeman
+- region_brainerd
+- region_brownsville
+- region_brunswick
+- region_buffalo
+- region_butte
+- region_cape cod / islands
+- region_cedar rapids
+- region_central michigan
+- region_central nj
+- region_champaign urbana
+- region_charleston
+- region_charlotte
+- region_charlottesville
+- region_chattanooga
+- region_chautauqua
+- region_chicago
+- region_chico
+- region_cincinnati
+- region_cleveland
+- region_clovis / portales
+- region_college station
+- region_colorado springs
+- region_columbia
+- region_columbia / jeff city
+- region_columbus
+- region_corpus christi
+- region_corvallis/albany
+- region_cumberland valley
+- region_dallas / fort worth
+- region_danville
+- region_dayton / springfield
+- region_daytona beach
+- region_deep east texas
+- region_del rio / eagle pass
+- region_delaware
+- region_denver
+- region_des moines
+- region_detroit metro
+- region_dothan
+- region_dubuque
+- region_duluth / superior
+- region_east idaho
+- region_east oregon
+- region_eastern co
+- region_eastern ct
+- region_eastern kentucky
+- region_eastern montana
+- region_eastern nc
+- region_eastern panhandle
+- region_eastern shore
+- region_eau claire
+- region_el paso
+- region_elko
+- region_elmira-corning
+- region_erie
+- region_eugene
+- region_evansville
+- region_fairbanks
+- region_fargo / moorhead
+- region_farmington
+- region_fayetteville
+- region_finger lakes
+- region_flagstaff / sedona
+- region_flint
+- region_florence
+- region_florence / muscle shoals
+- region_florida keys
+- region_fort collins / north co
+- region_fort smith
+- region_fort wayne
+- region_fredericksburg
+- region_fresno / madera
+- region_ft myers / sw florida
+- region_gadsden-anniston
+- region_gainesville
+- region_galveston
+- region_glens falls
+- region_gold country
+- region_grand forks
+- region_grand island
+- region_grand rapids
+- region_great falls
+- region_green bay
+- region_greensboro
+- region_greenville / upstate
+- region_gulfport / biloxi
+- region_hanford-corcoran
+- region_harrisburg
+- region_harrisonburg
+- region_hartford
+- region_hattiesburg
+- region_hawaii
+- region_heartland florida
+- region_helena
+- region_hickory / lenoir
+- region_high rockies
+- region_holland
+- region_houston
+- region_hudson valley
+- region_humboldt county
+- region_huntington-ashland
+- region_huntsville / decatur
+- region_imperial county
+- region_indianapolis
+- region_inland empire
+- region_iowa city
+- region_ithaca
+- region_jackson
+- region_jacksonville
+- region_janesville
+- region_jersey shore
+- region_jonesboro
+- region_joplin
+- region_kalamazoo
+- region_kalispell
+- region_kansas city, mo
+- region_kenai peninsula
+- region_kennewick-pasco-richland
+- region_kenosha-racine
+- region_killeen / temple / ft hood
+- region_klamath falls
+- region_knoxville
+- region_kokomo
+- region_la crosse
+- region_la salle co
+- region_lafayette
+- region_lafayette / west lafayette
+- region_lake charles
+- region_lake of the ozarks
+- region_lakeland
+- region_lancaster
+- region_lansing
+- region_laredo
+- region_las cruces
+- region_las vegas
+- region_lawrence
+- region_lawton
+- region_lehigh valley
+- region_lewiston / clarkston
+- region_lexington
+- region_lima / findlay
+- region_lincoln
+- region_little rock
+- region_long island
+- region_los angeles
+- region_louisville
+- region_lubbock
+- region_lynchburg
+- region_macon / warner robins
+- region_madison
+- region_maine
+- region_manhattan
+- region_mankato
+- region_mansfield
+- region_mason city
+- region_mattoon-charleston
+- region_mcallen / edinburg
+- region_medford-ashland
+- region_memphis
+- region_mendocino county
+- region_merced
+- region_milwaukee
+- region_minneapolis / st paul
+- region_missoula
+- region_mobile
+- region_modesto
+- region_mohave county
+- region_monroe
+- region_monterey bay
+- region_montgomery
+- region_morgantown
+- region_moses lake
+- region_muncie / anderson
+- region_muskegon
+- region_myrtle beach
+- region_nashville
+- region_new hampshire
+- region_new haven
+- region_new orleans
+- region_new river valley
+- region_new york city
+- region_norfolk / hampton roads
+- region_north central fl
+- region_north dakota
+- region_north jersey
+- region_north mississippi
+- region_north platte
+- region_northeast sd
+- region_northern michigan
+- region_northern panhandle
+- region_northern wi
+- region_northwest ct
+- region_northwest ga
+- region_northwest ks
+- region_northwest ok
+- region_ocala
+- region_odessa / midland
+- region_okaloosa / walton
+- region_oklahoma city
+- region_olympic peninsula
+- region_omaha / council bluffs
+- region_orange county
+- region_oregon coast
+- region_orlando
+- region_outer banks
+- region_palm springs
+- region_panama city
+- region_pensacola
+- region_peoria
+- region_philadelphia
+- region_phoenix
+- region_pittsburgh
+- region_plattsburgh-adirondacks
+- region_poconos
+- region_port huron
+- region_portland
+- region_potsdam-canton-massena
+- region_prescott
+- region_pueblo
+- region_pullman / moscow
+- region_raleigh / durham / ch
+- region_rapid city / west sd
+- region_reading
+- region_redding
+- region_reno / tahoe
+- region_rhode island
+- region_richmond
+- region_roanoke
+- region_rochester
+- region_rockford
+- region_roseburg
+- region_roswell / carlsbad
+- region_sacramento
+- region_saginaw-midland-baycity
+- region_salem
+- region_salt lake city
+- region_san angelo
+- region_san antonio
+- region_san diego
+- region_san luis obispo
+- region_sandusky
+- region_santa barbara
+- region_santa fe / taos
+- region_santa maria
+- region_sarasota-bradenton
+- region_savannah / hinesville
+- region_scottsbluff / panhandle
+- region_scranton / wilkes-barre
+- region_seattle-tacoma
+- region_sf bay area
+- region_sheboygan
+- region_show low
+- region_shreveport
+- region_sierra vista
+- region_sioux city
+- region_sioux falls / se sd
+- region_siskiyou county
+- region_skagit / island / sji
+- region_south bend / michiana
+- region_south coast
+- region_south dakota
+- region_south florida
+- region_south jersey
+- region_southeast ia
+- region_southeast ks
+- region_southeast missouri
+- region_southern illinois
+- region_southern maryland
+- region_southwest michigan
+- region_southwest mn
+- region_southwest va
+- region_space coast
+- region_spokane / coeur d'alene
+- region_springfield
+- region_st augustine
+- region_st cloud
+- region_st george
+- region_st joseph
+- region_st louis, mo
+- region_state college
+- region_stillwater
+- region_stockton
+- region_susanville
+- region_syracuse
+- region_tallahassee
+- region_tampa bay area
+- region_terre haute
+- region_texarkana
+- region_texoma
+- region_the thumb
+- region_toledo
+- region_topeka
+- region_treasure coast
+- region_tri-cities
+- region_tucson
+- region_tulsa
+- region_tuscaloosa
+- region_twin falls
+- region_tyler / east tx
+- region_upper peninsula
+- region_utica-rome-oneida
+- region_valdosta
+- region_ventura county
+- region_vermont
+- region_victoria
+- region_visalia-tulare
+- region_waco
+- region_washington, dc
+- region_waterloo / cedar falls
+- region_watertown
+- region_wausau
+- region_wenatchee
+- region_western ky
+- region_western maryland
+- region_western massachusetts
+- region_western slope
+- region_wichita
+- region_wichita falls
+- region_williamsport
+- region_wilmington
+- region_winchester
+- region_winston-salem
+- region_worcester / central ma
+- region_wyoming
+- region_yakima
+- region_york
+- region_youngstown
+- region_yuba-sutter
+- region_yuma
+- region_zanesville / cambridge
+- manufacturer_acura
+- manufacturer_alfa-romeo
+- manufacturer_aston-martin
+- manufacturer_audi
+- manufacturer_bmw
+- manufacturer_buick
+- manufacturer_cadillac
+- manufacturer_chevrolet
+- manufacturer_chrysler
+- manufacturer_dodge
+- manufacturer_fiat
+- manufacturer_ford
+- manufacturer_gmc
+- manufacturer_honda
+- manufacturer_hyundai
+- manufacturer_infiniti
+- manufacturer_jaguar
+- manufacturer_jeep
+- manufacturer_kia
+- manufacturer_land rover
+- manufacturer_lexus
+- manufacturer_lincoln
+- manufacturer_mazda
+- manufacturer_mercedes-benz
+- manufacturer_mercury
+- manufacturer_mini
+- manufacturer_mitsubishi
+- manufacturer_nissan
+- manufacturer_pontiac
+- manufacturer_porsche
+- manufacturer_ram
+- manufacturer_rover
+- manufacturer_saturn
+- manufacturer_subaru
+- manufacturer_toyota
+- manufacturer_volkswagen
+- manufacturer_volvo
+- manufacturer_ᴄhrysler
+- condition_excellent
+- condition_fair
+- condition_good
+- condition_like new
+- condition_new
+- condition_salvage
+- fuel_diesel
+- fuel_electric
+- fuel_gas
+- fuel_hybrid
+- fuel_other
+- title_status_clean
+- title_status_lien
+- title_status_missing
+- title_status_parts only
+- title_status_rebuilt
+- title_status_salvage
+- transmission_automatic
+- transmission_manual
+- transmission_other
+- drive_4wd
+- drive_fwd
+- drive_rwd
+- type_SUV
+- type_bus
+- type_convertible
+- type_coupe
+- type_hatchback
+- type_mini-van
+- type_offroad
+- type_other
+- type_pickup
+- type_sedan
+- type_truck
+- type_van
+- type_wagon
+- paint_color_black
+- paint_color_blue
+- paint_color_brown
+- paint_color_custom
+- paint_color_green
+- paint_color_grey
+- paint_color_orange
+- paint_color_purple
+- paint_color_red
+- paint_color_silver
+- paint_color_white
+- paint_color_yellow
+- state_ak
+- state_al
+- state_ar
+- state_az
+- state_ca
+- state_co
+- state_ct
+- state_de
+- state_fl
+- state_ga
+- state_hi
+- state_ia
+- state_id
+- state_il
+- state_in
+- state_ka
+- state_ky
+- state_la
+- state_ma
+- state_md
+- state_me
+- state_mi
+- state_mn
+- state_mo
+- state_ms
+- state_mt
+- state_nc
+- state_nd
+- state_ne
+- state_nh
+- state_nj
+- state_nm
+- state_nv
+- state_ny
+- state_oh
+- state_ok
+- state_or
+- state_pa
+- state_ri
+- state_sc
+- state_sd
+- state_tn
+- state_tx
+- state_ut
+- state_va
+- state_vt
+- state_wa
+- state_wi
+- state_wv
+- state_wy
+- type_size_SUV_1
+- type_size_SUV_2
+- type_size_SUV_3
+- type_size_SUV_4
+- type_size_bus_2
+- type_size_bus_3
+- type_size_bus_4
+- type_size_convertible_1
+- type_size_convertible_2
+- type_size_convertible_3
+- type_size_convertible_4
+- type_size_coupe_1
+- type_size_coupe_2
+- type_size_coupe_3
+- type_size_coupe_4
+- type_size_hatchback_1
+- type_size_hatchback_2
+- type_size_hatchback_3
+- type_size_hatchback_4
+- type_size_mini-van_2
+- type_size_mini-van_3
+- type_size_mini-van_4
+- type_size_offroad_2
+- type_size_offroad_3
+- type_size_offroad_4
+- type_size_other_2
+- type_size_other_3
+- type_size_other_4
+- type_size_pickup_2
+- type_size_pickup_3
+- type_size_pickup_4
+- type_size_sedan_1
+- type_size_sedan_2
+- type_size_sedan_3
+- type_size_sedan_4
+- type_size_truck_1
+- type_size_truck_2
+- type_size_truck_3
+- type_size_truck_4
+- type_size_van_2
+- type_size_van_3
+- type_size_van_4
+- type_size_wagon_1
+- type_size_wagon_2
+- type_size_wagon_3
+- type_size_wagon_4
+- manufacturer_type_acura_SUV
+- manufacturer_type_acura_coupe
+- manufacturer_type_acura_hatchback
+- manufacturer_type_acura_sedan
+- manufacturer_type_acura_van
+- manufacturer_type_acura_wagon
+- manufacturer_type_alfa-romeo_SUV
+- manufacturer_type_alfa-romeo_sedan
+- manufacturer_type_aston-martin_convertible
+- manufacturer_type_audi_SUV
+- manufacturer_type_audi_coupe
+- manufacturer_type_audi_hatchback
+- manufacturer_type_audi_sedan
+- manufacturer_type_audi_wagon
+- manufacturer_type_bmw_SUV
+- manufacturer_type_bmw_convertible
+- manufacturer_type_bmw_coupe
+- manufacturer_type_bmw_hatchback
+- manufacturer_type_bmw_other
+- manufacturer_type_bmw_sedan
+- manufacturer_type_bmw_truck
+- manufacturer_type_bmw_wagon
+- manufacturer_type_buick_SUV
+- manufacturer_type_buick_coupe
+- manufacturer_type_buick_hatchback
+- manufacturer_type_buick_mini-van
+- manufacturer_type_buick_other
+- manufacturer_type_buick_sedan
+- manufacturer_type_buick_van
+- manufacturer_type_buick_wagon
+- manufacturer_type_cadillac_SUV
+- manufacturer_type_cadillac_convertible
+- manufacturer_type_cadillac_coupe
+- manufacturer_type_cadillac_other
+- manufacturer_type_cadillac_pickup
+- manufacturer_type_cadillac_sedan
+- manufacturer_type_cadillac_truck
+- manufacturer_type_chevrolet_SUV
+- manufacturer_type_chevrolet_bus
+- manufacturer_type_chevrolet_convertible
+- manufacturer_type_chevrolet_coupe
+- manufacturer_type_chevrolet_hatchback
+- manufacturer_type_chevrolet_mini-van
+- manufacturer_type_chevrolet_offroad
+- manufacturer_type_chevrolet_other
+- manufacturer_type_chevrolet_pickup
+- manufacturer_type_chevrolet_sedan
+- manufacturer_type_chevrolet_truck
+- manufacturer_type_chevrolet_van
+- manufacturer_type_chevrolet_wagon
+- manufacturer_type_chrysler_SUV
+- manufacturer_type_chrysler_convertible
+- manufacturer_type_chrysler_coupe
+- manufacturer_type_chrysler_hatchback
+- manufacturer_type_chrysler_mini-van
+- manufacturer_type_chrysler_sedan
+- manufacturer_type_chrysler_van
+- manufacturer_type_chrysler_wagon
+- manufacturer_type_dodge_SUV
+- manufacturer_type_dodge_convertible
+- manufacturer_type_dodge_coupe
+- manufacturer_type_dodge_hatchback
+- manufacturer_type_dodge_mini-van
+- manufacturer_type_dodge_other
+- manufacturer_type_dodge_pickup
+- manufacturer_type_dodge_sedan
+- manufacturer_type_dodge_truck
+- manufacturer_type_dodge_van
+- manufacturer_type_fiat_SUV
+- manufacturer_type_fiat_coupe
+- manufacturer_type_fiat_hatchback
+- manufacturer_type_fiat_sedan
+- manufacturer_type_ford_SUV
+- manufacturer_type_ford_bus
+- manufacturer_type_ford_convertible
+- manufacturer_type_ford_coupe
+- manufacturer_type_ford_hatchback
+- manufacturer_type_ford_mini-van
+- manufacturer_type_ford_offroad
+- manufacturer_type_ford_other
+- manufacturer_type_ford_pickup
+- manufacturer_type_ford_sedan
+- manufacturer_type_ford_truck
+- manufacturer_type_ford_van
+- manufacturer_type_ford_wagon
+- manufacturer_type_gmc_SUV
+- manufacturer_type_gmc_bus
+- manufacturer_type_gmc_convertible
+- manufacturer_type_gmc_offroad
+- manufacturer_type_gmc_other
+- manufacturer_type_gmc_pickup
+- manufacturer_type_gmc_sedan
+- manufacturer_type_gmc_truck
+- manufacturer_type_gmc_van
+- manufacturer_type_gmc_wagon
+- manufacturer_type_honda_SUV
+- manufacturer_type_honda_coupe
+- manufacturer_type_honda_hatchback
+- manufacturer_type_honda_mini-van
+- manufacturer_type_honda_other
+- manufacturer_type_honda_pickup
+- manufacturer_type_honda_sedan
+- manufacturer_type_honda_truck
+- manufacturer_type_honda_van
+- manufacturer_type_honda_wagon
+- manufacturer_type_hyundai_SUV
+- manufacturer_type_hyundai_coupe
+- manufacturer_type_hyundai_hatchback
+- manufacturer_type_hyundai_mini-van
+- manufacturer_type_hyundai_sedan
+- manufacturer_type_infiniti_SUV
+- manufacturer_type_infiniti_coupe
+- manufacturer_type_infiniti_sedan
+- manufacturer_type_jaguar_coupe
+- manufacturer_type_jaguar_sedan
+- manufacturer_type_jeep_SUV
+- manufacturer_type_jeep_convertible
+- manufacturer_type_jeep_coupe
+- manufacturer_type_jeep_hatchback
+- manufacturer_type_jeep_offroad
+- manufacturer_type_jeep_other
+- manufacturer_type_jeep_pickup
+- manufacturer_type_jeep_sedan
+- manufacturer_type_jeep_truck
+- manufacturer_type_jeep_van
+- manufacturer_type_jeep_wagon
+- manufacturer_type_kia_SUV
+- manufacturer_type_kia_coupe
+- manufacturer_type_kia_hatchback
+- manufacturer_type_kia_mini-van
+- manufacturer_type_kia_other
+- manufacturer_type_kia_sedan
+- manufacturer_type_kia_van
+- manufacturer_type_kia_wagon
+- manufacturer_type_land rover_SUV
+- manufacturer_type_lexus_SUV
+- manufacturer_type_lexus_convertible
+- manufacturer_type_lexus_coupe
+- manufacturer_type_lexus_hatchback
+- manufacturer_type_lexus_sedan
+- manufacturer_type_lincoln_SUV
+- manufacturer_type_lincoln_convertible
+- manufacturer_type_lincoln_coupe
+- manufacturer_type_lincoln_other
+- manufacturer_type_lincoln_pickup
+- manufacturer_type_lincoln_sedan
+- manufacturer_type_lincoln_truck
+- manufacturer_type_mazda_SUV
+- manufacturer_type_mazda_convertible
+- manufacturer_type_mazda_coupe
+- manufacturer_type_mazda_hatchback
+- manufacturer_type_mazda_mini-van
+- manufacturer_type_mazda_other
+- manufacturer_type_mazda_sedan
+- manufacturer_type_mazda_truck
+- manufacturer_type_mazda_wagon
+- manufacturer_type_mercedes-benz_SUV
+- manufacturer_type_mercedes-benz_convertible
+- manufacturer_type_mercedes-benz_coupe
+- manufacturer_type_mercedes-benz_hatchback
+- manufacturer_type_mercedes-benz_mini-van
+- manufacturer_type_mercedes-benz_sedan
+- manufacturer_type_mercedes-benz_truck
+- manufacturer_type_mercedes-benz_van
+- manufacturer_type_mercury_SUV
+- manufacturer_type_mercury_convertible
+- manufacturer_type_mercury_coupe
+- manufacturer_type_mercury_hatchback
+- manufacturer_type_mercury_mini-van
+- manufacturer_type_mercury_pickup
+- manufacturer_type_mercury_sedan
+- manufacturer_type_mercury_truck
+- manufacturer_type_mercury_van
+- manufacturer_type_mercury_wagon
+- manufacturer_type_mini_coupe
+- manufacturer_type_mini_hatchback
+- manufacturer_type_mini_sedan
+- manufacturer_type_mini_wagon
+- manufacturer_type_mitsubishi_SUV
+- manufacturer_type_mitsubishi_convertible
+- manufacturer_type_mitsubishi_coupe
+- manufacturer_type_mitsubishi_hatchback
+- manufacturer_type_mitsubishi_sedan
+- manufacturer_type_mitsubishi_truck
+- manufacturer_type_nissan_SUV
+- manufacturer_type_nissan_convertible
+- manufacturer_type_nissan_coupe
+- manufacturer_type_nissan_hatchback
+- manufacturer_type_nissan_mini-van
+- manufacturer_type_nissan_other
+- manufacturer_type_nissan_pickup
+- manufacturer_type_nissan_sedan
+- manufacturer_type_nissan_truck
+- manufacturer_type_nissan_van
+- manufacturer_type_nissan_wagon
+- manufacturer_type_pontiac_SUV
+- manufacturer_type_pontiac_convertible
+- manufacturer_type_pontiac_coupe
+- manufacturer_type_pontiac_hatchback
+- manufacturer_type_pontiac_mini-van
+- manufacturer_type_pontiac_other
+- manufacturer_type_pontiac_sedan
+- manufacturer_type_pontiac_van
+- manufacturer_type_porsche_convertible
+- manufacturer_type_ram_SUV
+- manufacturer_type_ram_mini-van
+- manufacturer_type_ram_offroad
+- manufacturer_type_ram_other
+- manufacturer_type_ram_pickup
+- manufacturer_type_ram_sedan
+- manufacturer_type_ram_truck
+- manufacturer_type_ram_van
+- manufacturer_type_ram_wagon
+- manufacturer_type_rover_SUV
+- manufacturer_type_rover_truck
+- manufacturer_type_saturn_SUV
+- manufacturer_type_saturn_coupe
+- manufacturer_type_saturn_hatchback
+- manufacturer_type_saturn_sedan
+- manufacturer_type_saturn_wagon
+- manufacturer_type_subaru_SUV
+- manufacturer_type_subaru_coupe
+- manufacturer_type_subaru_hatchback
+- manufacturer_type_subaru_offroad
+- manufacturer_type_subaru_sedan
+- manufacturer_type_subaru_truck
+- manufacturer_type_subaru_wagon
+- manufacturer_type_toyota_SUV
+- manufacturer_type_toyota_convertible
+- manufacturer_type_toyota_coupe
+- manufacturer_type_toyota_hatchback
+- manufacturer_type_toyota_mini-van
+- manufacturer_type_toyota_offroad
+- manufacturer_type_toyota_other
+- manufacturer_type_toyota_pickup
+- manufacturer_type_toyota_sedan
+- manufacturer_type_toyota_truck
+- manufacturer_type_toyota_van
+- manufacturer_type_toyota_wagon
+- manufacturer_type_volkswagen_SUV
+- manufacturer_type_volkswagen_convertible
+- manufacturer_type_volkswagen_coupe
+- manufacturer_type_volkswagen_hatchback
+- manufacturer_type_volkswagen_mini-van
+- manufacturer_type_volkswagen_other
+- manufacturer_type_volkswagen_sedan
+- manufacturer_type_volkswagen_wagon
+- manufacturer_type_volvo_SUV
+- manufacturer_type_volvo_hatchback
+- manufacturer_type_volvo_sedan
+- manufacturer_type_volvo_wagon
+- manufacturer_type_ᴄhrysler_sedan

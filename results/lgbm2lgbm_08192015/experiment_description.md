@@ -1,0 +1,168 @@
+# Lab Notebook
+
+
+## MODELNAME
+lgbm2lgbm
+
+## SEED
+314
+
+## eval_mape mean
+0.44439346938038715
+
+## ecal_mape each
+- 0: 0.44769480161058844
+- 1: 0.4395067471260368
+- 2: 0.4484202049492339
+- 3: 0.4390081928081842
+- 4: 0.44733740040789227
+
+## input_future
+- state_tn
+- cylinders
+- manufacturer_type_ford_sedan
+- region_albany
+- state_wa
+- state_oh
+- manufacturer_type_chevrolet_sedan
+- manufacturer_type_subaru_SUV
+- paint_color_grey
+- type_size_coupe_2
+- odometerperfuel
+- state_az
+- manufacturer_nissan
+- manufacturer_type_nissan_sedan
+- is_fwd
+- drive_4wd
+- manufacturer_chevrolet
+- manufacturer_dodge
+- manufacturer_type_buick_sedan
+- type_size_sedan_3
+- manufacturer_ford
+- transmission_other
+- type_size_hatchback_2
+- state_ok
+- manufacturer_type_volkswagen_sedan
+- yearperfuel
+- region_washington, dc
+- region_boise
+- manufacturer_mercury
+- manufacturer_type_chevrolet_pickup
+- type_size_van_4
+- state_pa
+- state_va
+- type_van
+- manufacturer_type_chevrolet_coupe
+- paint_color_white
+- type_size_sedan_4
+- year
+- fuel_diesel
+- manufacturer_mazda
+- region_los angeles
+- car-age-inverse
+- condition_salvage
+- manufacturer_volkswagen
+- manufacturer_type_ford_coupe
+- paint_color_black
+- manufacturer_type_mazda_sedan
+- manufacturer_honda
+- is_excellent
+- state_nm
+- manufacturer_type_kia_sedan
+- type_size_truck_4
+- state_ia
+- type_convertible
+- region_tucson
+- condition_excellent
+- transmission_automatic
+- is_silver
+- fuel_gas
+- odometerpercar-age
+- condition_like new
+- type_size_pickup_3
+- state_tx
+- manufacturer_audi
+- title_status_salvage
+- odometerpermanufacturer
+- manufacturer_type_toyota_sedan
+- state_mn
+- region_richmond
+- manufacturer_type_ford_van
+- manufacturer_type_ram_truck
+- region_north jersey
+- manufacturer_toyota
+- state_nv
+- type_truck
+- manufacturer_type_ford_truck
+- truck_diesel
+- region_pittsburgh
+- odometerpertype
+- region_new york city
+- state_nj
+- manufacturer_type_chevrolet_SUV
+- paint_color_silver
+- type_size_coupe_4
+- title_status_rebuilt
+- state_il
+- paint_color_blue
+- is_automatic
+- is_gas
+- type_size_hatchback_3
+- type_size_SUV_4
+- manufacturer_ram
+- manufacturer_type_hyundai_sedan
+- manufacturer_hyundai
+- yearperdrive
+- type_coupe
+- region_rochester
+- condition_good
+- state_ca
+- odometer-inverse
+- manufacturer_jeep
+- type_hatchback
+- type_size_SUV_3
+- type_size_sedan_2
+- title_status_score
+- paint_color_red
+- condition_score
+- manufacturer_type_ford_pickup
+- manufacturer_subaru
+- type_sedan
+- paint_color_brown
+- is_rebuilt
+- manufacturer_type_bmw_sedan
+- yearpertransmission
+- manufacturer_type_ford_SUV
+- state_wi
+- region_las vegas
+- paint_color_green
+- manufacturer_type_bmw_SUV
+- drive_rwd
+- yearpermanufacturer
+- odometer
+- state_fl
+- type_size_mini-van_4
+- log-odmeter
+- manufacturer_kia
+- is_sedan
+- state_ga
+- odometerpertransmission
+- type_size_truck_3
+- manufacturer_type_buick_SUV
+- type_pickup
+- manufacturer_bmw
+- type_size_coupe_3
+- odometerperdrive
+- drive_fwd
+- type_SUV
+- transmission_manual
+- manufacturer_type_honda_SUV
+- region_norfolk / hampton roads
+- yearpertype
+- state_ny
+- condition_fair
+- type_size_pickup_4
+- type_mini-van
+- manufacturer_type_honda_sedan
+- state_or
+- manufacturer_type_audi_sedan

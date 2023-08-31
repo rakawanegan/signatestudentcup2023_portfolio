@@ -1,0 +1,827 @@
+,importance
+odometerpertype,0.0011641281950196536
+condition_score,0.0009401082675233319
+odometer,0.0007115740709613405
+odometer-inverse,0.0006043281619976248
+condition_fair,0.0005906956709251787
+odometerperdrive,0.0005638343994508466
+yearpermanufacturer,0.0005144598593213312
+yearpertype,0.000386746355838255
+yearperdrive,0.00037013147821018944
+is_fwd,0.00035422244828708926
+year,0.00031033630831522885
+paint_color_green,0.00030158969351834486
+drive_4wd,0.00027178988033460527
+log-odmeter,0.0002708337982235687
+odometerperfuel,0.00023141628112707813
+is_excellent,0.00022656215972904903
+odometerpercar-age,0.00020639241633854666
+car-age-inverse,0.00019997459149734276
+yearperfuel,0.0001992224212766791
+drive_fwd,0.0001947808632056791
+odometerpertransmission,0.00017222586883303137
+condition_excellent,0.00012598165819710516
+odometerpermanufacturer,9.741312178368489e-05
+yearpertransmission,9.516786333896299e-05
+cylinders,5.8446893609787054e-05
+fuel_diesel,4.9449206547258484e-05
+is_sedan,4.611824347833249e-05
+paint_color_white,3.7050709432939755e-05
+title_status_score,3.5938000402774284e-05
+is_gas,2.7962913277335133e-05
+paint_color_black,2.7358320448644946e-05
+type_sedan,2.732056403015326e-05
+type_SUV,2.6256679210412415e-05
+paint_color_blue,2.4003284694096294e-05
+state_nm,2.3731071779664603e-05
+is_silver,2.239432445705347e-05
+condition_good,1.883197130814196e-05
+paint_color_silver,1.5883509163039378e-05
+manufacturer_chevrolet,1.461707168459725e-05
+type_size_sedan_2,1.3485039914939989e-05
+fuel_gas,1.3245479147272476e-05
+manufacturer_ram,1.021407919465922e-05
+transmission_manual,1.0121137043794803e-05
+manufacturer_ford,9.943987519633879e-06
+manufacturer_type_honda_sedan,9.81959947310429e-06
+type_truck,9.72565195045405e-06
+manufacturer_mercury,9.490169579962071e-06
+is_rebuilt,8.670536541188767e-06
+state_ny,7.803397050309968e-06
+type_size_truck_4,7.1456173462713934e-06
+type_coupe,6.4337662424307496e-06
+is_automatic,6.109538373877399e-06
+manufacturer_honda,5.1995557113215796e-06
+type_size_sedan_3,4.811004269633656e-06
+truck_diesel,4.711371996535263e-06
+type_size_sedan_4,4.696417091665239e-06
+title_status_rebuilt,4.659787513183744e-06
+condition_like new,4.4729077917082805e-06
+manufacturer_kia,4.097965008664772e-06
+paint_color_grey,3.838789516485974e-06
+transmission_automatic,3.808069486410659e-06
+state_nj,3.691592924681686e-06
+manufacturer_toyota,3.6468348056928335e-06
+type_pickup,3.3420262524896938e-06
+state_il,3.2166227699192973e-06
+type_size_SUV_4,3.040855789393504e-06
+manufacturer_volkswagen,3.0396486643269327e-06
+type_size_hatchback_2,3.0350698394521203e-06
+type_size_SUV_3,2.9813306960946306e-06
+type_van,2.904740952658358e-06
+manufacturer_type_ram_truck,2.700545923772779e-06
+type_mini-van,2.4412638950366272e-06
+condition_salvage,2.3779219038289057e-06
+manufacturer_type_nissan_sedan,1.7709724646763902e-06
+title_status_salvage,1.6698721108099335e-06
+manufacturer_type_hyundai_sedan,1.5095741066062374e-06
+manufacturer_audi,1.4917051592844288e-06
+drive_rwd,1.4651614188565532e-06
+manufacturer_jeep,1.4551019749120542e-06
+state_pa,1.417040004447756e-06
+state_ca,1.3890740320210426e-06
+manufacturer_type_bmw_SUV,1.3359601558349254e-06
+type_size_hatchback_3,1.2382869023497278e-06
+manufacturer_mazda,1.0897280020571998e-06
+manufacturer_bmw,1.0794947211678618e-06
+state_fl,1.041159904957567e-06
+paint_color_brown,1.0232193794479372e-06
+paint_color_red,1.0118670852321543e-06
+manufacturer_type_volkswagen_sedan,9.998388961207638e-07
+manufacturer_type_ford_SUV,9.95661794789271e-07
+manufacturer_type_ford_coupe,8.853893973537197e-07
+manufacturer_type_bmw_sedan,8.489170069125862e-07
+type_size_coupe_2,8.157852953161182e-07
+type_size_coupe_4,7.978874041469908e-07
+state_tx,7.978762912586035e-07
+manufacturer_subaru,6.343600009728334e-07
+manufacturer_hyundai,5.840037999860215e-07
+type_size_pickup_4,5.152679989350872e-07
+type_hatchback,5.070915065630288e-07
+state_oh,4.754406983664694e-07
+type_size_mini-van_4,4.0479240404067696e-07
+region_albany,3.971913020706097e-07
+type_size_coupe_3,3.8863109530495876e-07
+manufacturer_type_chevrolet_sedan,3.60817194788865e-07
+manufacturer_type_chevrolet_SUV,3.42504895556317e-07
+state_ia,2.989736476166627e-07
+type_convertible,2.758920034651169e-07
+state_va,2.5233670442048606e-07
+region_los angeles,2.394848994669019e-07
+manufacturer_type_toyota_sedan,2.305667035074066e-07
+type_size_van_4,2.2383009401494292e-07
+state_wi,2.2110359765292742e-07
+manufacturer_type_ford_pickup,2.0871619987872236e-07
+state_or,1.94874303360848e-07
+manufacturer_type_kia_sedan,1.9226440350905705e-07
+manufacturer_nissan,1.7001579344366746e-07
+region_rochester,1.6402609936960744e-07
+"region_washington, dc",1.5682446719011978e-07
+transmission_other,1.1361234930618025e-07
+manufacturer_type_ford_sedan,1.0002829675670455e-07
+state_mn,8.639029935864073e-08
+manufacturer_type_chevrolet_pickup,8.610640023221094e-08
+manufacturer_dodge,8.228639991614273e-08
+state_nv,8.154039754515452e-08
+state_wa,8.119929972849604e-08
+manufacturer_type_ford_truck,7.212519825827712e-08
+region_norfolk / hampton roads,6.173670108466922e-08
+type_size_pickup_3,5.5739398874266044e-08
+region_las vegas,5.2537799888341397e-08
+region_richmond,4.928390140435113e-08
+state_tn,4.696359923173077e-08
+manufacturer_type_ford_van,3.628609945849348e-08
+state_ok,3.250319835501614e-08
+manufacturer_type_honda_SUV,3.189009945003818e-08
+region_pittsburgh,3.181429875098729e-08
+region_new york city,2.8207200131191712e-08
+manufacturer_type_buick_SUV,2.7409900127395304e-08
+region_boise,2.7247299527743962e-08
+state_az,2.2569500046643043e-08
+manufacturer_type_chevrolet_coupe,2.1698600249919764e-08
+manufacturer_type_audi_sedan,2.1554800611056635e-08
+region_north jersey,2.0436920600275243e-08
+manufacturer_type_subaru_SUV,1.8798900214278547e-08
+state_ga,1.854849962512617e-08
+manufacturer_type_buick_sedan,1.8272800161867053e-08
+type_size_truck_3,1.779610059315928e-08
+region_tucson,1.7166199128837434e-08
+manufacturer_type_mazda_sedan,1.477929956195112e-08
+manufacturer_type_acura_coupe,0.0
+manufacturer_type_acura_SUV,0.0
+type_size_truck_1,0.0
+type_size_truck_2,0.0
+manufacturer_type_acura_hatchback,0.0
+type_size_van_2,0.0
+type_size_wagon_4,0.0
+type_size_van_3,0.0
+type_size_wagon_3,0.0
+manufacturer_type_chevrolet_bus,0.0
+manufacturer_type_chevrolet_convertible,0.0
+odometerpersize,0.0
+type_size_wagon_2,0.0
+manufacturer_type_audi_convertible,0.0
+manufacturer_type_acura_sedan,0.0
+manufacturer_type_acura_van,0.0
+manufacturer_type_buick_other,0.0
+manufacturer_type_buick_mini-van,0.0
+manufacturer_type_buick_wagon,0.0
+manufacturer_type_buick_hatchback,0.0
+manufacturer_type_buick_coupe,0.0
+manufacturer_type_cadillac_SUV,0.0
+manufacturer_type_cadillac_convertible,0.0
+manufacturer_type_bmw_wagon,0.0
+manufacturer_type_bmw_truck,0.0
+manufacturer_type_bmw_hatchback,0.0
+type_size_sedan_1,0.0
+manufacturer_type_bmw_convertible,0.0
+manufacturer_type_cadillac_coupe,0.0
+manufacturer_type_audi_wagon,0.0
+manufacturer_type_cadillac_pickup,0.0
+manufacturer_type_audi_hatchback,0.0
+manufacturer_type_cadillac_sedan,0.0
+manufacturer_type_audi_coupe,0.0
+manufacturer_type_cadillac_truck,0.0
+manufacturer_type_buick_van,0.0
+manufacturer_type_audi_SUV,0.0
+manufacturer_type_aston-martin_convertible,0.0
+manufacturer_type_alfa-romeo_sedan,0.0
+manufacturer_type_alfa-romeo_SUV,0.0
+manufacturer_type_acura_wagon,0.0
+manufacturer_type_bmw_coupe,0.0
+type_size_SUV_1,0.0
+type_size_pickup_2,0.0
+state_mi,0.0
+paint_color_yellow,0.0
+state_ak,0.0
+state_al,0.0
+state_ar,0.0
+state_co,0.0
+state_ct,0.0
+state_de,0.0
+state_hi,0.0
+state_id,0.0
+state_in,0.0
+state_ka,0.0
+state_ky,0.0
+state_la,0.0
+state_ma,0.0
+state_md,0.0
+region_akron / canton,0.0
+paint_color_purple,0.0
+paint_color_orange,0.0
+type_offroad,0.0
+region_ashtabula,0.0
+region_asheville,0.0
+region_appleton-oshkosh-fdl,0.0
+region_annapolis,0.0
+type_bus,0.0
+region_ann arbor,0.0
+type_other,0.0
+region_albuquerque,0.0
+region_anchorage / mat-su,0.0
+region_ames,0.0
+type_wagon,0.0
+region_amarillo,0.0
+region_altoona-johnstown,0.0
+paint_color_custom,0.0
+state_me,0.0
+state_mo,0.0
+type_size_other_4,0.0
+state_ms,0.0
+type_size_bus_4,0.0
+type_size_convertible_1,0.0
+type_size_convertible_2,0.0
+type_size_convertible_3,0.0
+type_size_convertible_4,0.0
+type_size_coupe_1,0.0
+type_size_hatchback_1,0.0
+type_size_hatchback_4,0.0
+type_size_mini-van_2,0.0
+type_size_mini-van_3,0.0
+type_size_offroad_2,0.0
+type_size_offroad_3,0.0
+type_size_offroad_4,0.0
+type_size_other_2,0.0
+type_size_other_3,0.0
+type_size_bus_3,0.0
+type_size_bus_2,0.0
+type_size_SUV_2,0.0
+yearpersize,0.0
+state_mt,0.0
+state_nc,0.0
+state_nd,0.0
+state_ne,0.0
+state_nh,0.0
+region_abilene,0.0
+state_ri,0.0
+manufacturer_type_chevrolet_mini-van,0.0
+state_sc,0.0
+state_sd,0.0
+state_ut,0.0
+state_vt,0.0
+state_wv,0.0
+state_wy,0.0
+manufacturer_type_chevrolet_hatchback,0.0
+region_bemidji,0.0
+manufacturer_type_chevrolet_offroad,0.0
+manufacturer_type_nissan_convertible,0.0
+manufacturer_type_mini_sedan,0.0
+manufacturer_type_mini_wagon,0.0
+manufacturer_type_mitsubishi_SUV,0.0
+manufacturer_type_mitsubishi_convertible,0.0
+manufacturer_type_mitsubishi_coupe,0.0
+manufacturer_type_mitsubishi_hatchback,0.0
+manufacturer_type_mitsubishi_sedan,0.0
+manufacturer_type_mitsubishi_truck,0.0
+manufacturer_type_nissan_SUV,0.0
+manufacturer_type_nissan_coupe,0.0
+manufacturer_type_pontiac_mini-van,0.0
+manufacturer_type_nissan_hatchback,0.0
+manufacturer_type_nissan_mini-van,0.0
+manufacturer_type_nissan_pickup,0.0
+manufacturer_type_nissan_truck,0.0
+manufacturer_type_nissan_van,0.0
+manufacturer_type_nissan_wagon,0.0
+manufacturer_type_pontiac_SUV,0.0
+manufacturer_type_pontiac_convertible,0.0
+manufacturer_type_pontiac_coupe,0.0
+manufacturer_type_mini_hatchback,0.0
+manufacturer_type_mini_coupe,0.0
+manufacturer_type_mercury_wagon,0.0
+manufacturer_type_mercury_van,0.0
+manufacturer_type_mazda_mini-van,0.0
+manufacturer_type_mazda_other,0.0
+manufacturer_type_mazda_truck,0.0
+manufacturer_type_mazda_wagon,0.0
+manufacturer_type_mercedes-benz_SUV,0.0
+manufacturer_type_mercedes-benz_convertible,0.0
+manufacturer_type_mercedes-benz_coupe,0.0
+manufacturer_type_mercedes-benz_mini-van,0.0
+manufacturer_type_mercedes-benz_sedan,0.0
+manufacturer_type_mercedes-benz_truck,0.0
+manufacturer_type_mercedes-benz_van,0.0
+manufacturer_type_mercury_SUV,0.0
+manufacturer_type_mercury_convertible,0.0
+manufacturer_type_mercury_coupe,0.0
+manufacturer_type_mercury_hatchback,0.0
+manufacturer_type_mercury_mini-van,0.0
+manufacturer_type_mercury_pickup,0.0
+manufacturer_type_mercury_sedan,0.0
+manufacturer_type_mercury_truck,0.0
+manufacturer_type_pontiac_hatchback,0.0
+manufacturer_type_pontiac_other,0.0
+manufacturer_type_chevrolet_other,0.0
+manufacturer_type_toyota_van,0.0
+manufacturer_type_toyota_SUV,0.0
+manufacturer_type_toyota_convertible,0.0
+manufacturer_type_toyota_coupe,0.0
+manufacturer_type_toyota_hatchback,0.0
+manufacturer_type_toyota_mini-van,0.0
+manufacturer_type_toyota_offroad,0.0
+manufacturer_type_toyota_other,0.0
+manufacturer_type_toyota_pickup,0.0
+manufacturer_type_toyota_truck,0.0
+manufacturer_type_toyota_wagon,0.0
+manufacturer_type_pontiac_sedan,0.0
+manufacturer_type_volkswagen_SUV,0.0
+manufacturer_type_volkswagen_convertible,0.0
+manufacturer_type_volkswagen_coupe,0.0
+manufacturer_type_volkswagen_hatchback,0.0
+manufacturer_type_volkswagen_mini-van,0.0
+manufacturer_type_volkswagen_other,0.0
+manufacturer_type_volkswagen_wagon,0.0
+manufacturer_type_volvo_SUV,0.0
+manufacturer_type_volvo_hatchback,0.0
+manufacturer_type_subaru_wagon,0.0
+manufacturer_type_subaru_truck,0.0
+manufacturer_type_subaru_sedan,0.0
+manufacturer_type_subaru_offroad,0.0
+manufacturer_type_porsche_convertible,0.0
+manufacturer_type_porsche_coupe,0.0
+manufacturer_type_ram_SUV,0.0
+manufacturer_type_ram_mini-van,0.0
+manufacturer_type_ram_offroad,0.0
+manufacturer_type_ram_other,0.0
+manufacturer_type_ram_pickup,0.0
+manufacturer_type_ram_sedan,0.0
+manufacturer_type_ram_van,0.0
+manufacturer_type_ram_wagon,0.0
+manufacturer_type_rover_SUV,0.0
+manufacturer_type_rover_truck,0.0
+manufacturer_type_saturn_SUV,0.0
+manufacturer_type_saturn_coupe,0.0
+manufacturer_type_saturn_hatchback,0.0
+manufacturer_type_saturn_sedan,0.0
+manufacturer_type_saturn_wagon,0.0
+manufacturer_type_subaru_coupe,0.0
+manufacturer_type_subaru_hatchback,0.0
+manufacturer_type_mazda_hatchback,0.0
+manufacturer_type_mazda_coupe,0.0
+manufacturer_type_mazda_convertible,0.0
+manufacturer_type_gmc_bus,0.0
+manufacturer_type_fiat_sedan,0.0
+manufacturer_type_ford_bus,0.0
+manufacturer_type_ford_convertible,0.0
+manufacturer_type_ford_hatchback,0.0
+manufacturer_type_ford_mini-van,0.0
+manufacturer_type_ford_offroad,0.0
+manufacturer_type_ford_other,0.0
+manufacturer_type_ford_wagon,0.0
+manufacturer_type_gmc_SUV,0.0
+manufacturer_type_gmc_convertible,0.0
+manufacturer_type_mazda_SUV,0.0
+manufacturer_type_gmc_offroad,0.0
+manufacturer_type_gmc_other,0.0
+manufacturer_type_gmc_pickup,0.0
+manufacturer_type_gmc_sedan,0.0
+manufacturer_type_gmc_truck,0.0
+manufacturer_type_gmc_van,0.0
+manufacturer_type_gmc_wagon,0.0
+manufacturer_type_honda_coupe,0.0
+manufacturer_type_honda_hatchback,0.0
+manufacturer_type_fiat_hatchback,0.0
+manufacturer_type_fiat_coupe,0.0
+manufacturer_type_fiat_SUV,0.0
+manufacturer_type_dodge_wagon,0.0
+manufacturer_type_chevrolet_truck,0.0
+manufacturer_type_chevrolet_van,0.0
+manufacturer_type_chevrolet_wagon,0.0
+manufacturer_type_chrysler_SUV,0.0
+manufacturer_type_chrysler_coupe,0.0
+manufacturer_type_chrysler_hatchback,0.0
+manufacturer_type_chrysler_mini-van,0.0
+manufacturer_type_chrysler_truck,0.0
+manufacturer_type_chrysler_van,0.0
+manufacturer_type_chrysler_wagon,0.0
+manufacturer_type_dodge_SUV,0.0
+manufacturer_type_dodge_coupe,0.0
+manufacturer_type_dodge_hatchback,0.0
+manufacturer_type_dodge_mini-van,0.0
+manufacturer_type_dodge_other,0.0
+manufacturer_type_dodge_pickup,0.0
+manufacturer_type_dodge_sedan,0.0
+manufacturer_type_dodge_truck,0.0
+manufacturer_type_dodge_van,0.0
+manufacturer_type_honda_mini-van,0.0
+manufacturer_type_honda_other,0.0
+manufacturer_type_honda_pickup,0.0
+manufacturer_type_jeep_van,0.0
+manufacturer_type_kia_SUV,0.0
+manufacturer_type_kia_coupe,0.0
+manufacturer_type_kia_hatchback,0.0
+manufacturer_type_kia_mini-van,0.0
+manufacturer_type_kia_other,0.0
+manufacturer_type_kia_van,0.0
+manufacturer_type_kia_wagon,0.0
+manufacturer_type_land rover_SUV,0.0
+manufacturer_type_lexus_SUV,0.0
+manufacturer_type_lexus_coupe,0.0
+manufacturer_type_lexus_hatchback,0.0
+manufacturer_type_lexus_sedan,0.0
+manufacturer_type_lincoln_SUV,0.0
+manufacturer_type_lincoln_convertible,0.0
+manufacturer_type_lincoln_coupe,0.0
+manufacturer_type_lincoln_other,0.0
+manufacturer_type_lincoln_pickup,0.0
+manufacturer_type_lincoln_sedan,0.0
+manufacturer_type_lincoln_truck,0.0
+manufacturer_type_jeep_wagon,0.0
+manufacturer_type_jeep_truck,0.0
+size,0.0
+manufacturer_type_jeep_sedan,0.0
+manufacturer_type_honda_truck,0.0
+manufacturer_type_honda_van,0.0
+manufacturer_type_honda_wagon,0.0
+manufacturer_type_hyundai_SUV,0.0
+manufacturer_type_hyundai_coupe,0.0
+manufacturer_type_hyundai_hatchback,0.0
+manufacturer_type_hyundai_mini-van,0.0
+manufacturer_type_hyundai_wagon,0.0
+manufacturer_type_infiniti_SUV,0.0
+manufacturer_type_infiniti_coupe,0.0
+manufacturer_type_infiniti_sedan,0.0
+manufacturer_type_jaguar_SUV,0.0
+manufacturer_type_jaguar_coupe,0.0
+manufacturer_type_jaguar_sedan,0.0
+manufacturer_type_jeep_SUV,0.0
+manufacturer_type_jeep_hatchback,0.0
+manufacturer_type_jeep_offroad,0.0
+manufacturer_type_jeep_other,0.0
+manufacturer_type_jeep_pickup,0.0
+manufacturer_type_chrysler_sedan,0.0
+region_augusta,0.0
+title_status_parts only,0.0
+"region_kansas city, mo",0.0
+region_ithaca,0.0
+region_jackson,0.0
+region_jacksonville,0.0
+region_janesville,0.0
+region_jersey shore,0.0
+region_jonesboro,0.0
+region_joplin,0.0
+region_kalamazoo,0.0
+region_kalispell,0.0
+region_kenai peninsula,0.0
+region_lake charles,0.0
+region_kennewick-pasco-richland,0.0
+region_kenosha-racine,0.0
+region_killeen / temple / ft hood,0.0
+region_klamath falls,0.0
+region_knoxville,0.0
+region_kokomo,0.0
+region_la crosse,0.0
+region_la salle co,0.0
+region_lafayette,0.0
+region_iowa city,0.0
+region_inland empire,0.0
+region_indianapolis,0.0
+region_imperial county,0.0
+region_greensboro,0.0
+region_greenville / upstate,0.0
+region_gulfport / biloxi,0.0
+region_hanford-corcoran,0.0
+region_harrisburg,0.0
+region_harrisonburg,0.0
+region_hartford,0.0
+region_hattiesburg,0.0
+region_hawaii,0.0
+region_heartland florida,0.0
+region_helena,0.0
+region_hickory / lenoir,0.0
+region_high rockies,0.0
+region_holland,0.0
+region_houston,0.0
+region_hudson valley,0.0
+region_humboldt county,0.0
+region_huntington-ashland,0.0
+region_huntsville / decatur,0.0
+region_lafayette / west lafayette,0.0
+region_lake of the ozarks,0.0
+region_great falls,0.0
+region_mobile,0.0
+region_mattoon-charleston,0.0
+region_mcallen / edinburg,0.0
+region_medford-ashland,0.0
+region_memphis,0.0
+region_mendocino county,0.0
+region_merced,0.0
+region_milwaukee,0.0
+region_minneapolis / st paul,0.0
+region_missoula,0.0
+region_modesto,0.0
+region_lakeland,0.0
+region_mohave county,0.0
+region_monroe,0.0
+region_monterey bay,0.0
+region_montgomery,0.0
+region_morgantown,0.0
+region_moses lake,0.0
+region_muncie / anderson,0.0
+region_muskegon,0.0
+region_myrtle beach,0.0
+region_mason city,0.0
+region_mansfield,0.0
+region_mankato,0.0
+region_manhattan,0.0
+region_lancaster,0.0
+region_lansing,0.0
+region_laredo,0.0
+region_las cruces,0.0
+region_lawrence,0.0
+region_lawton,0.0
+region_lehigh valley,0.0
+region_lewiston / clarkston,0.0
+region_lexington,0.0
+region_lima / findlay,0.0
+region_lincoln,0.0
+region_little rock,0.0
+region_long island,0.0
+region_louisville,0.0
+region_lubbock,0.0
+region_lynchburg,0.0
+region_macon / warner robins,0.0
+region_madison,0.0
+region_maine,0.0
+region_green bay,0.0
+region_grand rapids,0.0
+title_status_missing,0.0
+region_colorado springs,0.0
+region_charlottesville,0.0
+region_chattanooga,0.0
+region_chautauqua,0.0
+region_chicago,0.0
+region_chico,0.0
+region_cincinnati,0.0
+region_cleveland,0.0
+region_clovis / portales,0.0
+region_college station,0.0
+region_columbia,0.0
+region_delaware,0.0
+region_columbia / jeff city,0.0
+region_columbus,0.0
+region_corpus christi,0.0
+region_corvallis/albany,0.0
+region_dallas / fort worth,0.0
+region_danville,0.0
+region_dayton / springfield,0.0
+region_daytona beach,0.0
+region_deep east texas,0.0
+region_charlotte,0.0
+region_charleston,0.0
+region_champaign urbana,0.0
+region_central nj,0.0
+region_billings,0.0
+region_binghamton,0.0
+region_birmingham,0.0
+region_bismarck,0.0
+region_bloomington,0.0
+region_bloomington-normal,0.0
+region_boone,0.0
+region_boston,0.0
+region_boulder,0.0
+region_bowling green,0.0
+region_bozeman,0.0
+region_brainerd,0.0
+region_brownsville,0.0
+region_brunswick,0.0
+region_buffalo,0.0
+region_butte,0.0
+region_cape cod / islands,0.0
+region_cedar rapids,0.0
+region_central michigan,0.0
+region_del rio / eagle pass,0.0
+region_denver,0.0
+region_grand island,0.0
+region_fort smith,0.0
+region_fayetteville,0.0
+region_finger lakes,0.0
+region_flagstaff / sedona,0.0
+region_flint,0.0
+region_florence,0.0
+region_florence / muscle shoals,0.0
+region_florida keys,0.0
+region_fort collins / north co,0.0
+region_fort dodge,0.0
+region_fort wayne,0.0
+region_des moines,0.0
+region_fredericksburg,0.0
+region_fresno / madera,0.0
+region_ft myers / sw florida,0.0
+region_gadsden-anniston,0.0
+region_gainesville,0.0
+region_galveston,0.0
+region_glens falls,0.0
+region_gold country,0.0
+region_grand forks,0.0
+region_farmington,0.0
+region_fargo / moorhead,0.0
+region_fairbanks,0.0
+region_evansville,0.0
+region_detroit metro,0.0
+region_dothan,0.0
+region_dubuque,0.0
+region_duluth / superior,0.0
+region_east idaho,0.0
+region_east oregon,0.0
+region_eastern co,0.0
+region_eastern ct,0.0
+region_eastern kentucky,0.0
+region_eastern montana,0.0
+region_eastern nc,0.0
+region_eastern panhandle,0.0
+region_eastern shore,0.0
+region_eau claire,0.0
+region_el paso,0.0
+region_elko,0.0
+region_elmira-corning,0.0
+region_erie,0.0
+region_eugene,0.0
+region_nashville,0.0
+region_new hampshire,0.0
+region_new haven,0.0
+region_watertown,0.0
+region_upper peninsula,0.0
+region_utica-rome-oneida,0.0
+region_valdosta,0.0
+region_ventura county,0.0
+region_vermont,0.0
+region_victoria,0.0
+region_visalia-tulare,0.0
+region_waco,0.0
+region_waterloo / cedar falls,0.0
+region_wausau,0.0
+region_winston-salem,0.0
+region_wenatchee,0.0
+region_western ky,0.0
+region_western maryland,0.0
+region_western massachusetts,0.0
+region_western slope,0.0
+region_wichita,0.0
+region_wichita falls,0.0
+region_williamsport,0.0
+region_wilmington,0.0
+region_tyler / east tx,0.0
+region_twin falls,0.0
+region_tuscaloosa,0.0
+region_tulsa,0.0
+region_st cloud,0.0
+region_st george,0.0
+region_st joseph,0.0
+"region_st louis, mo",0.0
+region_state college,0.0
+region_stillwater,0.0
+region_stockton,0.0
+region_susanville,0.0
+region_syracuse,0.0
+region_tallahassee,0.0
+region_tampa bay area,0.0
+region_terre haute,0.0
+region_texarkana,0.0
+region_texoma,0.0
+region_the thumb,0.0
+region_toledo,0.0
+region_topeka,0.0
+region_treasure coast,0.0
+region_tri-cities,0.0
+region_winchester,0.0
+region_worcester / central ma,0.0
+region_new orleans,0.0
+region_bakersfield,0.0
+region_baton rouge,0.0
+manufacturer_mini,0.0
+manufacturer_mitsubishi,0.0
+manufacturer_pontiac,0.0
+manufacturer_porsche,0.0
+region_baltimore,0.0
+manufacturer_rover,0.0
+manufacturer_saturn,0.0
+manufacturer_volvo,0.0
+region_austin,0.0
+region_wyoming,0.0
+region_bend,0.0
+condition_new,0.0
+region_atlanta,0.0
+fuel_electric,0.0
+region_athens,0.0
+fuel_hybrid,0.0
+fuel_other,0.0
+title_status_clean,0.0
+title_status_lien,0.0
+manufacturer_mercedes-benz,0.0
+manufacturer_lincoln,0.0
+manufacturer_lexus,0.0
+manufacturer_land rover,0.0
+region_yakima,0.0
+region_york,0.0
+region_youngstown,0.0
+region_yuba-sutter,0.0
+region_yuma,0.0
+region_zanesville / cambridge,0.0
+manufacturer_acura,0.0
+manufacturer_alfa-romeo,0.0
+manufacturer_aston-martin,0.0
+manufacturer_buick,0.0
+manufacturer_cadillac,0.0
+region_bellingham,0.0
+manufacturer_chrysler,0.0
+manufacturer_fiat,0.0
+region_beaumont / port arthur,0.0
+manufacturer_gmc,0.0
+region_battle creek,0.0
+manufacturer_infiniti,0.0
+manufacturer_jaguar,0.0
+region_st augustine,0.0
+region_springfield,0.0
+region_spokane / coeur d'alene,0.0
+region_port huron,0.0
+region_outer banks,0.0
+region_palm springs,0.0
+region_panama city,0.0
+region_pensacola,0.0
+region_peoria,0.0
+region_philadelphia,0.0
+region_phoenix,0.0
+region_plattsburgh-adirondacks,0.0
+region_poconos,0.0
+region_portland,0.0
+region_space coast,0.0
+region_potsdam-canton-massena,0.0
+region_prescott,0.0
+region_pueblo,0.0
+region_pullman / moscow,0.0
+region_raleigh / durham / ch,0.0
+region_rapid city / west sd,0.0
+region_reading,0.0
+region_redding,0.0
+region_reno / tahoe,0.0
+region_orlando,0.0
+region_oregon coast,0.0
+region_orange county,0.0
+region_oneonta,0.0
+region_new river valley,0.0
+region_north central fl,0.0
+region_north dakota,0.0
+region_north mississippi,0.0
+region_north platte,0.0
+region_northeast sd,0.0
+region_northern michigan,0.0
+region_northern panhandle,0.0
+region_northern wi,0.0
+region_northwest ct,0.0
+region_northwest ga,0.0
+region_northwest ks,0.0
+region_northwest ok,0.0
+region_ocala,0.0
+region_odessa / midland,0.0
+region_okaloosa / walton,0.0
+region_oklahoma city,0.0
+region_olympic peninsula,0.0
+region_omaha / council bluffs,0.0
+region_rhode island,0.0
+region_roanoke,0.0
+region_rockford,0.0
+region_shreveport,0.0
+region_sioux city,0.0
+region_sioux falls / se sd,0.0
+region_siskiyou county,0.0
+region_skagit / island / sji,0.0
+region_south bend / michiana,0.0
+region_south coast,0.0
+region_south dakota,0.0
+region_south florida,0.0
+region_south jersey,0.0
+region_southeast ia,0.0
+region_southeast ks,0.0
+region_southeast missouri,0.0
+region_southern illinois,0.0
+region_southern maryland,0.0
+region_southern wv,0.0
+region_southwest ks,0.0
+region_southwest michigan,0.0
+region_southwest mn,0.0
+region_southwest va,0.0
+region_sierra vista,0.0
+region_show low,0.0
+region_roseburg,0.0
+region_sheboygan,0.0
+region_roswell / carlsbad,0.0
+region_sacramento,0.0
+region_saginaw-midland-baycity,0.0
+region_salem,0.0
+region_salt lake city,0.0
+region_san angelo,0.0
+region_san antonio,0.0
+region_san diego,0.0
+region_san luis obispo,0.0
+region_sandusky,0.0
+region_santa barbara,0.0
+region_santa fe / taos,0.0
+region_santa maria,0.0
+region_sarasota-bradenton,0.0
+region_savannah / hinesville,0.0
+region_scottsbluff / panhandle,0.0
+region_scranton / wilkes-barre,0.0
+region_seattle-tacoma,0.0
+region_sf bay area,0.0
+manufacturer_type_volvo_sedan,0.0
